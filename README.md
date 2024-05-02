@@ -55,12 +55,6 @@ Ensure you have the following dependencies installed:
 - Other dependencies as specified in `requirements.txt`
 
 ## Acknowledgements
-We extend our deepest gratitude to the reviewers whose insightful feedback significantly enhanced
-the quality of this paper. Their expertise and constructive critiques were of great value to the
-development of our research.
-
-We would also like to express our profound appreciation to the deaf community association for
-their unwavering support and collaboration.
-
-Special thanks go to the five volunteers who generously dedicated their time and effort to help us
-record and collect the necessary data. Their commitment was crucial to the success of our project.
+We would like to extend a special thanks to the five volunteers who generously donated their time
+and effort to help us record and collect the necessary data. Their unwavering commitment was
+crucial to the success of our project.
